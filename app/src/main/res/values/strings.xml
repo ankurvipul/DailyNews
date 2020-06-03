@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsHunt</string>
+    <string name="newsHuntImage">newsHuntImage</string>
+    <string name="bitCoin">All articles about Bitcoin from the last month, sorted by recent first</string>
+    <string name="usNews">Top business headlines in the US right now</string>
+    <string name="read_full_story">Read Full Story</string>
+    <string name="company">NewsApi.org</string>
+</resources>
